@@ -42,7 +42,7 @@ This project is for educational purposes only. Using such a script to exploit Di
 Ce projet est uniquement éducatif. L'utilisation de ce type de script pour abuser du système Discord peut entraîner des sanctions sur votre compte.
 
 ## Author / Auteur
-- **Your Name / Votre Nom** - [Your GitHub Profile / Votre Profil GitHub](https://github.com/cccccccccc127)
+- **Your Name / Votre Nom** - [cccccccccc127](https://github.com/cccccccccc127)
 
 ## License / Licence
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
